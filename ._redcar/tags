@@ -1,0 +1,17 @@
+1380677184
+Application	c:/Sites/rails_projects/sample_app/config/application.rb	  class Application 
+ApplicationController	c:/Sites/rails_projects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	c:/Sites/rails_projects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+GET 'contact'	c:/Sites/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb	describe "GET 'contact'" do
+GET 'home'	c:/Sites/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb	describe "GET 'home'" do
+PagesController	c:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	c:/Sites/rails_projects/sample_app/app/helpers/pages_helper.rb	module PagesHelper
+SampleApp	c:/Sites/rails_projects/sample_app/config/application.rb	module SampleApp
+concats two strings with spaces	c:/Sites/rails_projects/sample_app/spec/helpers/pages_helper_spec.rb	it "concats two strings with spaces" do
+contact	c:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def contact
+home	c:/Sites/rails_projects/sample_app/app/controllers/pages_controller.rb	  def home
+pages/contact.html.erb	c:/Sites/rails_projects/sample_app/spec/views/pages/contact.html.erb_spec.rb	describe "pages/contact.html.erb" do
+pages/home.html.erb	c:/Sites/rails_projects/sample_app/spec/views/pages/home.html.erb_spec.rb	describe "pages/home.html.erb" do
+returns http success	c:/Sites/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb	it "returns http success" do
+returns http success	c:/Sites/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb	it "returns http success" do
+string concat	c:/Sites/rails_projects/sample_app/spec/helpers/pages_helper_spec.rb	describe "string concat" do

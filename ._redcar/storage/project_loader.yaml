@@ -1,0 +1,6 @@
+--- 
+open_files: 
+  - public/index.html
+  - app/controllers/pages_controller.rb
+  - config/routes.rb
+  - app/views/pages/home.html.erb
