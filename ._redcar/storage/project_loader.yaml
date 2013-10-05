@@ -4,3 +4,4 @@ open_files:
   - app/controllers/pages_controller.rb
   - config/routes.rb
   - app/views/pages/home.html.erb
+  - spec/controllers/pages_controller_spec.rb

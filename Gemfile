@@ -26,11 +26,14 @@ end
 gem 'jquery-rails'
 
 group :development do
+  gem 'autotest'
   gem 'rspec-rails', '~> 2.8'
 end
 
 group :test do
   gem 'rspec', '~> 2.8'
+  gem 'webrat', '0.7.1'
+  gem 'ZenTest', '4.6'
 end
 
 # To use ActiveModel has_secure_password
